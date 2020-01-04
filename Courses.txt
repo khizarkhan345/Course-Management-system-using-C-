@@ -1,0 +1,21 @@
+	
+PH101	Mechanics
+CS101	Intro To Computer Science
+CH101	Chemistry For Engineers
+MT101	Calculus I
+HM101	Communication Skills
+PH102	Electricity and Magnetism
+MT102	Calculus II
+MM102	Introduction To Materials Engineering
+ME102	Engineering Design
+HM102	Report Writing
+CS231	Discrete Mathematics
+EE221	Linear Circuit Analysis
+EE222	Digital Logic and Design
+HM201	Islamiat and Pakistan Stuudies
+ES201	Differential Equations and Linear Algebra
+EE231	Electronics I
+CS222	Computer Organization and Assembly Language
+CS221	Data Structures
+MS291	Engineering Economy
+ES202	Probability and Statistics

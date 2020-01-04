@@ -1,0 +1,27 @@
+khizar khizar 1 0
+2017200 A2017200 0 5
+CH101 Chemistry For Engineers
+1 0 0 0
+CS101 Intro To Computer Science
+1 0 0 0
+MT101 Calculus I
+1 0 0 0
+HM101 Communication Skills
+1 0 0 0
+PH101 Mechanics
+1 0 0 0
+2016000 2016000 0 3
+CS101 Intro To Computer Science
+1 0 0 0
+CH101 Chemistry For Engineers
+0 1 1 0
+PH101 Mechanics
+0 1 1 0
+100 123 0 3
+MT101 Calculus I
+1 0 0 0
+HM101 Communication Skills
+0 1 1 0
+EE231 Electronics I
+0 1 1 0
+2016194 2016194 1 0
